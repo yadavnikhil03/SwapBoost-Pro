@@ -1,0 +1,2 @@
+ui_print("Mounting system...");
+ui_print("Installing SwapBoost Pro...");

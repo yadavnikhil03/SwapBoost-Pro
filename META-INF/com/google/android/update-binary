@@ -1,0 +1,56 @@
+ui_print " "
+ui_print "╔═════════════════════════════════════════╗"
+ui_print "║          SWAPBOOST INSTALLER            ║"
+ui_print "╚═════════════════════════════════════════╝"
+ui_print " "
+ui_print "Initializing..."
+sleep 1
+
+ui_print "▒▒▒▒▒▒▒▒▒▒▒▒"
+sleep 0.3
+ui_print "01010101010101"
+sleep 0.3
+ui_print "▓▒▓▒▓▒▓▒▓▒▓▒▓▒"
+sleep 0.3
+ui_print "10101010101010"
+sleep 0.3
+ui_print "Follow the white rabbit..."
+sleep 1
+
+ui_print "Entering the Matrix..."
+sleep 0.5
+ui_print "▓ ▒ █ ▓ ▒ █ ▓ ▒"
+sleep 0.3
+ui_print "█ ▓ ▒ █ ▓ ▒ █ ▓"
+sleep 0.3
+ui_print "▒ █ ▓ ▒ █ ▓ ▒ █"
+sleep 0.3
+ui_print "Wake up, Neo..."
+sleep 0.8
+
+ui_print " "
+ui_print "Installing system overrides..."
+ui_print "[■□□□□□□□□□] 10% - Bypassing system limits"
+sleep 0.4
+ui_print "[■■■□□□□□□□] 30% - Breaking digital barriers"
+sleep 0.4
+ui_print "[■■■■■□□□□□] 50% - Unplugging restrictions"
+sleep 0.4
+ui_print "[■■■■■■■□□□] 70% - Loading kernel enhancements"
+sleep 0.4
+ui_print "[■■■■■■■■■□] 90% - Breaking the rules"
+sleep 0.4
+ui_print "[■■■■■■■■■■] 100% - There is no spoon"
+sleep 0.5
+
+ui_print " "
+ui_print "╔═════════════════════════════════════════╗"
+ui_print "║         SYSTEM TRANSFORMATION           ║"
+ui_print "║                                         ║"
+ui_print "║  I know kung fu.                        ║"
+ui_print "║  Your device has been freed from        ║"
+ui_print "║  the constraints of the system.         ║"
+ui_print "║                                         ║"
+ui_print "║  Reboot to see how deep the             ║"
+ui_print "║  rabbit hole goes.                      ║"
+ui_print "╚═════════════════════════════════════════╝"
