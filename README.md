@@ -1,6 +1,6 @@
 # SwapBoost Pro v1.0
 
-<img src="" width="300">
+<img src="https://github.com/user-attachments/assets/b03ec16c-9f71-4377-be46-a26ec74a9e1b" alt="Image" style="width:1000px; height:500px;" />
 
 ## 💥 Description
 SwapBoost Pro is an advanced RAM management module that optimizes your device's memory performance through persistent zRAM + Swapfile optimization with VM tweaks.
