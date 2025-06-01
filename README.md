@@ -1,4 +1,4 @@
-# SwapBoost Pro v1.0
+# SwapBoost Pro 
 
 <img src="https://github.com/user-attachments/assets/b03ec16c-9f71-4377-be46-a26ec74a9e1b" alt="Image" style="width:1000px; height:500px;" />
 
