@@ -1,8 +1,6 @@
 id=swapboost
-name=SwapBoost RAM Manager
-version=1.0-Pro
-versionCode=100
+name=SwapBoost
+version=1.0
+versionCode=500
 author=yadavnikhil03
-description=Persistent zRAM + Swapfile Optimizer with VM tweaks & user config support
-support=https://github.com/yadavnikhil03/swapboost
-updateJson=https://raw.githubusercontent.com/yadavnikhil03/swapboost/main/update.json
+description= It improves Performence by adding more zRAM
